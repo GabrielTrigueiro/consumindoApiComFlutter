@@ -1,16 +1,11 @@
-# flutter_rest
+# Consumindo API Rest
 
-A new Flutter project.
+Projeto feito com Flutter para aprender como consumir APIs Rest, como organizar o projeto e tratar exceções.
 
-## Getting Started
+## Demonstração
 
-This project is a starting point for a Flutter application.
+![Exemplo de imagem](example.gif)
 
-A few resources to get you started if this is your first Flutter project:
+### Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para rodar o projeto na sua máquina é preciso ter algum emulador, dispositivo IOS ou Android disponível, também é necessário o SDK do flutter.
